@@ -1,0 +1,5 @@
+@layer utilities {
+  .card-shadow {
+    @apply bg-white rounded-xl shadow-md p-4;
+  }
+}
